@@ -15,7 +15,7 @@ public class StockPrice {
 	}
 
 	public String getSymbol() {
-		return 0;
+		return this.symbol;
 	}
 
 	public double getPrice() {
